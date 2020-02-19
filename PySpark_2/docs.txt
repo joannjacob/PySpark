@@ -1,0 +1,6 @@
+
+
+
+Apache Spark is a fast and general-purpose cluster computing system. Designed for large-scale data processing, it run programs up to 100x faster than Hadoop MapReduce in memory, or 10x faster on disk. Spark can run on Hadoop, Mesos, standalone, or in the cloud. It can access diverse data sources including HDFS, Cassandra, HBase, and S3. Spark has an advanced DAG execution engine that supports acyclic data flow and in-memory computing. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs.
+
+
